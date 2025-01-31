@@ -41,5 +41,3 @@ Tarefa
     trás para frente a partir de 100. (100, 95, 90, ..., 10, 5)
 10. squareNumbersBackwards - Retornar os quadrados perfeitos contando de
     trás para frente a partir de 100. (100, 81, 64, ..., 4, 1)
-
-::: {.section .hilightedContet .hilightedContet--tip}
